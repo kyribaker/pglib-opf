@@ -7,7 +7,7 @@
 %%%%                                                                  %%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   A 500 bus model created by the Sustainable Data Evolution Technology (SDET)
+%   A 588 bus model created by the Sustainable Data Evolution Technology (SDET)
 %   tool.
 %
 %   https://egriddata.org/group/sustainable-data-evolution-technology-sdet
